@@ -2,10 +2,10 @@
 
 ## About Me
 
-- **Name:** [Your Name]
-- **Professional Title:** ICT Teacher
+- **Name:** [MEENAZ FAROOQ JAKATI]
+- **Professional Title:** ICT Teacher and Mathematics Teacher
 - **Years of Experience:** [X years]
-- **Education Background:** [Your Qualifications]
+- **Education Background:** [Bachelor of Engineering and Technology]
 - **Teaching Philosophy:** [Your approach to ICT education]
 - **Brief Bio:** [A brief introduction about yourself and your passion for ICT education]
 
