@@ -2,8 +2,8 @@
 
 ## About Me
 
-- **Name:** MEENAZ FAROOQ JAKATI
-- **Professional Title:**ICT & Mathematics Educator | Arduino & Tinkercad | STEM-Integrated Learning
+                 MEENAZ FAROOQ JAKATI
+ICT & Mathematics Educator | Arduino & Tinkercad | STEM-Integrated Learning
 - - **Years of Experience:** X years
 - **Education Background:** Bachelor of Engineering and Technology
 - **Teaching Philosophy:** Learning becomes powerful when it connects to the real world.”
