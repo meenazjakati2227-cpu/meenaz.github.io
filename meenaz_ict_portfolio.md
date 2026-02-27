@@ -3,10 +3,20 @@
 ## About Me
 
 - **Name:** [MEENAZ FAROOQ JAKATI]
-- **Professional Title:** ICT Teacher and Mathematics Teacher
-- **Years of Experience:** [X years]
-- **Education Background:** [Bachelor of Engineering and Technology]
-- **Teaching Philosophy:** [Your approach to ICT education]
+- **Professional Title:**ICT & Mathematics Educator | Arduino & Tinkercad | STEM-Integrated Learning
+- - **Years of Experience:** X years
+- **Education Background:** Bachelor of Engineering and Technology
+- **Teaching Philosophy:** Learning becomes powerful when it connects to the real world.”
+
+I believe in a student-centred classroom where learners actively construct knowledge rather than passively receive it. My teaching approach integrates:
+
+🌍 Real-world applications — Connecting coding and mathematics to everyday problem-solving
+🤝 Collaborative learning — Encouraging teamwork, discussion, and peer exploration
+🛠️ Hands-on STEM projects — Making concepts tangible through coding, simulation, and prototyping
+📊 Continuous assessment — Using formative strategies to track growth and understanding
+💡 Skill-focused learning — Developing computational thinking, creativity, and independence
+
+My core goal is to build students’ confidence in programming and logical reasoning, equipping them with the mindset to solve real-world challenges creatively and independently.
 - **Brief Bio:** [A brief introduction about yourself and your passion for ICT education]
 
 ---
