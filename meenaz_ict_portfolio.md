@@ -2,7 +2,7 @@
 
 ## About Me
 
-- **Name:** [MEENAZ FAROOQ JAKATI]
+- **Name:** MEENAZ FAROOQ JAKATI
 - **Professional Title:**ICT & Mathematics Educator | Arduino & Tinkercad | STEM-Integrated Learning
 - - **Years of Experience:** X years
 - **Education Background:** Bachelor of Engineering and Technology
@@ -17,8 +17,9 @@ I believe in a student-centred classroom where learners actively construct knowl
 💡 Skill-focused learning — Developing computational thinking, creativity, and independence
 
 My core goal is to build students’ confidence in programming and logical reasoning, equipping them with the mindset to solve real-world challenges creatively and independently.
-- **Brief Bio:** [A brief introduction about yourself and your passion for ICT education]
 
+
+- **Brief Bio:** Mathematics & ICT Educator with 11 years of experience in Mathematics and 2 years in ICT across Grades 4–10. Backed by an Electronics & Communication Engineering background, I deliver Python, HTML, Arduino, and Tinkercad instruction through a hands-on, student-centred, STEM-integrated approach.
 ---
 
 ## Lesson Plans
